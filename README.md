@@ -54,14 +54,5 @@
 
 ---
 
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danieljakson010101&show_icons=true&theme=default"/>
-</p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danieljakson010101"/>
-</p>
-
----
 
