@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">A passionate Computer Science student from Malaysia 🇲🇾</h3>
+<h3 align="center">A passionate Computer Science student from Universiti Utara Malaysia</h3>
 
 ---
 
