@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 Computer Science Student  
 - 🔭 Working on **Personal Portfolio**
-- 💼 Looking for **Data Analytics Internship (Sept 26'- Jan 27')**
+- 💼 Looking for **Data Analytics Internship (Sept 26'- April 27')**
 - 📫 Reach me at: **danieljakson03@gmail.com**
 
 ---
